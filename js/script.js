@@ -1,4 +1,4 @@
-var banners = ["As melhores pizzas da Italia!", "Qualidade e preço alto!"];
+var banners = ["Do lixo ao luxo", "Pede ifood pede!s"];
 var banner = 0;
 function trocaBanner(){
 banner = (banner + 1) % 2;
